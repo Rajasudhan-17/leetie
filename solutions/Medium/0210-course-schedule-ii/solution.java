@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort
 // Link     : https://leetcode.com/problems/course-schedule-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42904000 (beats 0%)
+// Runtime  : 5 ms (beats 81%)
+// Memory   : 46832000 (beats 52%)
 // Language : java
 // Copyright: (c) 2026 Rajasudhan-17. All rights reserved.
 // Synced by: leetie
