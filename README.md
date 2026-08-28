@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 20 Solved
+## Progress Summary: 21 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -10,6 +10,7 @@
 | course-schedule | Course Schedule | Medium | java | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.java) |
 | course-schedule-ii | Course Schedule II | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.java) |
 | course-schedule-iv | Course Schedule IV | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-iv/) | [Solution](./solutions/Medium/1462-course-schedule-iv/solution.java) |
+| customer-placing-the-largest-number-of-orders | Customer Placing the Largest Number of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
 | find-all-possible-recipes-from-given-supplies | Find All Possible Recipes from Given Supplies | Medium | java | [Problem](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | [Solution](./solutions/Medium/2115-find-all-possible-recipes-from-given-supplies/solution.java) |
 | find-eventual-safe-states | Find Eventual Safe States | Medium | java | [Problem](https://leetcode.com/problems/find-eventual-safe-states/) | [Solution](./solutions/Medium/0802-find-eventual-safe-states/solution.java) |
 | game-play-analysis-iv | Game Play Analysis IV | Medium | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-iv/) | [Solution](./solutions/Medium/0550-game-play-analysis-iv/solution.sql) |
