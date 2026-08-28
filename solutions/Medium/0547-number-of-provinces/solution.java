@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
 // Link     : https://leetcode.com/problems/number-of-provinces/
-// Runtime  : 1 ms (beats 87%)
-// Memory   : 47036000 (beats 88%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 42824000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 Rajasudhan-17. All rights reserved.
 // Synced by: leetie
