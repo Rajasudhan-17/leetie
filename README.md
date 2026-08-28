@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 17 Solved
+## Progress Summary: 18 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -18,6 +18,7 @@
 | next-greater-element-iii | Next Greater Element III | Medium | java | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.java) |
 | number-of-operations-to-make-network-connected | Number of Operations to Make Network Connected | Medium | java | [Problem](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Solution](./solutions/Medium/1319-number-of-operations-to-make-network-connected/solution.java) |
 | number-of-provinces | Number of Provinces | Medium | java | [Problem](https://leetcode.com/problems/number-of-provinces/) | [Solution](./solutions/Medium/0547-number-of-provinces/solution.java) |
+| number-of-restricted-paths-from-first-to-last-node | Number of Restricted Paths From First to Last Node | Medium | java | [Problem](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [Solution](./solutions/Medium/1786-number-of-restricted-paths-from-first-to-last-node/solution.java) |
 | redundant-connection | Redundant Connection | Medium | java | [Problem](https://leetcode.com/problems/redundant-connection/) | [Solution](./solutions/Medium/0684-redundant-connection/solution.java) |
 | remove-k-digits | 402. Remove K Digits | Medium | java | [Problem](https://leetcode.com/problems/remove-k-digits/) | [Solution](./solutions/Medium/0402-remove-k-digits/solution.java) |
 | reverse-string-ii | Reverse String II | Easy | java | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.java) |
