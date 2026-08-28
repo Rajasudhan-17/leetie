@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 19 Solved
+## Progress Summary: 20 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -12,6 +12,7 @@
 | course-schedule-iv | Course Schedule IV | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-iv/) | [Solution](./solutions/Medium/1462-course-schedule-iv/solution.java) |
 | find-all-possible-recipes-from-given-supplies | Find All Possible Recipes from Given Supplies | Medium | java | [Problem](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | [Solution](./solutions/Medium/2115-find-all-possible-recipes-from-given-supplies/solution.java) |
 | find-eventual-safe-states | Find Eventual Safe States | Medium | java | [Problem](https://leetcode.com/problems/find-eventual-safe-states/) | [Solution](./solutions/Medium/0802-find-eventual-safe-states/solution.java) |
+| game-play-analysis-iv | Game Play Analysis IV | Medium | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-iv/) | [Solution](./solutions/Medium/0550-game-play-analysis-iv/solution.sql) |
 | intersection-of-two-linked-lists | Intersection of Two Linked Lists | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](./solutions/Easy/0160-intersection-of-two-linked-lists/solution.java) |
 | linked-list-cycle-ii | Linked List Cycle II | Medium | java | [Problem](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](./solutions/Medium/0142-linked-list-cycle-ii/solution.java) |
 | longest-increasing-path-in-a-matrix | Longest Increasing Path in a Matrix | Hard | java | [Problem](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](./solutions/Hard/0329-longest-increasing-path-in-a-matrix/solution.java) |
