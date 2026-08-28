@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 23 Solved
+## Progress Summary: 24 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -15,6 +15,7 @@
 | customer-placing-the-largest-number-of-orders | Customer Placing the Largest Number of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
 | find-all-possible-recipes-from-given-supplies | Find All Possible Recipes from Given Supplies | Medium | java | [Problem](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | [Solution](./solutions/Medium/2115-find-all-possible-recipes-from-given-supplies/solution.java) |
 | find-eventual-safe-states | Find Eventual Safe States | Medium | java | [Problem](https://leetcode.com/problems/find-eventual-safe-states/) | [Solution](./solutions/Medium/0802-find-eventual-safe-states/solution.java) |
+| friend-requests-ii-who-has-the-most-friends | Friend Requests II: Who Has the Most Friends | Medium | mysql | [Problem](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [Solution](./solutions/Medium/0602-friend-requests-ii-who-has-the-most-friends/solution.sql) |
 | game-play-analysis-iv | Game Play Analysis IV | Medium | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-iv/) | [Solution](./solutions/Medium/0550-game-play-analysis-iv/solution.sql) |
 | intersection-of-two-linked-lists | Intersection of Two Linked Lists | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](./solutions/Easy/0160-intersection-of-two-linked-lists/solution.java) |
 | linked-list-cycle-ii | Linked List Cycle II | Medium | java | [Problem](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](./solutions/Medium/0142-linked-list-cycle-ii/solution.java) |
