@@ -4,7 +4,7 @@
 // Tags     : Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
 // Link     : https://leetcode.com/problems/redundant-connection/
 // Runtime  : 3 ms (beats 0%)
-// Memory   : 42636000 (beats 0%)
+// Memory   : 42988000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 Rajasudhan-17. All rights reserved.
 // Synced by: leetie
@@ -27,7 +27,7 @@ class Solution {
         for(int[] ele:edges){
             int rootA=find(ele[0],parent);
             int rootB=find(ele[1],parent);
-            System.out.println(rootA+ " " + rootB);
+            System.out.println(ele[0]+ " " + ele[1]);
             System.out.println(Arrays.toString(parent));
             if(rootA==rootB) return new int[] {ele[0],ele[1]};
             parent[ele[1]] = ele[0];
