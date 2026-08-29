@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 42 Solved
+## Progress Summary: 43 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| basic-calculator | Basic Calculator | Hard | java | [Problem](https://leetcode.com/problems/basic-calculator/) | [Solution](./solutions/Hard/0224-basic-calculator/solution.java) |
 | big-countries | Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
 | biggest-single-number | Biggest Single Number | Easy | mysql | [Problem](https://leetcode.com/problems/biggest-single-number/) | [Solution](./solutions/Easy/0619-biggest-single-number/solution.sql) |
 | build-array-from-permutation | Build Array from Permutation | Easy | java | [Problem](https://leetcode.com/problems/build-array-from-permutation/) | [Solution](./solutions/Easy/1920-build-array-from-permutation/solution.java) |
