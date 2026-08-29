@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Prefix Sum
 // Link     : https://leetcode.com/problems/running-sum-of-1d-array/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42556000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 43776000 (beats 98%)
 // Language : java
 // Copyright: (c) 2026 Rajasudhan-17. All rights reserved.
 // Synced by: leetie
