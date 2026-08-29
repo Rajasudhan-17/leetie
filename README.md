@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 44 Solved
+## Progress Summary: 45 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -37,6 +37,7 @@
 | number-of-operations-to-make-network-connected | Number of Operations to Make Network Connected | Medium | java | [Problem](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Solution](./solutions/Medium/1319-number-of-operations-to-make-network-connected/solution.java) |
 | number-of-provinces | Number of Provinces | Medium | java | [Problem](https://leetcode.com/problems/number-of-provinces/) | [Solution](./solutions/Medium/0547-number-of-provinces/solution.java) |
 | number-of-restricted-paths-from-first-to-last-node | Number of Restricted Paths From First to Last Node | Medium | java | [Problem](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [Solution](./solutions/Medium/1786-number-of-restricted-paths-from-first-to-last-node/solution.java) |
+| ransom-note | Ransom Note | Easy | java | [Problem](https://leetcode.com/problems/ransom-note/) | [Solution](./solutions/Easy/0383-ransom-note/solution.java) |
 | redundant-connection | Redundant Connection | Medium | java | [Problem](https://leetcode.com/problems/redundant-connection/) | [Solution](./solutions/Medium/0684-redundant-connection/solution.java) |
 | remove-k-digits | 402. Remove K Digits | Medium | java | [Problem](https://leetcode.com/problems/remove-k-digits/) | [Solution](./solutions/Medium/0402-remove-k-digits/solution.java) |
 | repeated-dna-sequences | Repeated DNA Sequences | Medium | java | [Problem](https://leetcode.com/problems/repeated-dna-sequences/) | [Solution](./solutions/Medium/0187-repeated-dna-sequences/solution.java) |
