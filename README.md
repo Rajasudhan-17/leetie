@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 52 Solved
+## Progress Summary: 53 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -19,6 +19,7 @@
 | course-schedule-ii | Course Schedule II | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.java) |
 | course-schedule-iv | Course Schedule IV | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-iv/) | [Solution](./solutions/Medium/1462-course-schedule-iv/solution.java) |
 | customer-placing-the-largest-number-of-orders | Customer Placing the Largest Number of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
+| divide-two-integers | Divide Two Integers | Medium | java | [Problem](https://leetcode.com/problems/divide-two-integers/) | [Solution](./solutions/Medium/0029-divide-two-integers/solution.java) |
 | edit-distance | Edit Distance | Medium | java | [Problem](https://leetcode.com/problems/edit-distance/) | [Solution](./solutions/Medium/0072-edit-distance/solution.java) |
 | excel-sheet-column-title | Excel Sheet Column Title | Easy | java | [Problem](https://leetcode.com/problems/excel-sheet-column-title/) | [Solution](./solutions/Easy/0168-excel-sheet-column-title/solution.java) |
 | exchange-seats | Exchange Seats | Medium | mysql | [Problem](https://leetcode.com/problems/exchange-seats/) | [Solution](./solutions/Medium/0626-exchange-seats/solution.sql) |
