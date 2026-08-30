@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Bit Manipulation
 // Link     : https://leetcode.com/problems/divide-two-integers/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42308000 (beats 0%)
+// Runtime  : 1 ms (beats 96%)
+// Memory   : 42440000 (beats 85%)
 // Language : java
 // Copyright: (c) 2026 Rajasudhan-17. All rights reserved.
 // Synced by: leetie
