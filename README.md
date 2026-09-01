@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 65 Solved
+## Progress Summary: 66 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -54,6 +54,7 @@
 | number-of-provinces | Number of Provinces | Medium | java | [Problem](https://leetcode.com/problems/number-of-provinces/) | [Solution](./solutions/Medium/0547-number-of-provinces/solution.java) |
 | number-of-restricted-paths-from-first-to-last-node | Number of Restricted Paths From First to Last Node | Medium | java | [Problem](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [Solution](./solutions/Medium/1786-number-of-restricted-paths-from-first-to-last-node/solution.java) |
 | number-of-segments-in-a-string | Number of Segments in a String | Easy | java | [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](./solutions/Easy/0434-number-of-segments-in-a-string/solution.java) |
+| power-of-two | Power of Two | Easy | java | [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](./solutions/Easy/0231-power-of-two/solution.java) |
 | ransom-note | Ransom Note | Easy | java | [Problem](https://leetcode.com/problems/ransom-note/) | [Solution](./solutions/Easy/0383-ransom-note/solution.java) |
 | reconstruct-original-digits-from-english | Reconstruct Original Digits from English | Medium | java | [Problem](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Solution](./solutions/Medium/0423-reconstruct-original-digits-from-english/solution.java) |
 | rectangle-area | Rectangle Area | Medium | java | [Problem](https://leetcode.com/problems/rectangle-area/) | [Solution](./solutions/Medium/0223-rectangle-area/solution.java) |
