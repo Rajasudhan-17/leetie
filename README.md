@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 71 Solved
+## Progress Summary: 72 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -14,6 +14,7 @@
 | build-array-from-permutation | Build Array from Permutation | Easy | java | [Problem](https://leetcode.com/problems/build-array-from-permutation/) | [Solution](./solutions/Easy/1920-build-array-from-permutation/solution.java) |
 | classes-with-at-least-5-students | Classes With at Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
 | compare-version-numbers | Compare Version Numbers | Medium | java | [Problem](https://leetcode.com/problems/compare-version-numbers/) | [Solution](./solutions/Medium/0165-compare-version-numbers/solution.java) |
+| construct-uniform-parity-array-ii | Construct Uniform Parity Array II | Medium | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.java) |
 | convert-a-number-to-hexadecimal | Convert a Number to Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | count-and-say | Count and Say | Medium | java | [Problem](https://leetcode.com/problems/count-and-say/) | [Solution](./solutions/Medium/0038-count-and-say/solution.java) |
 | counting-bits | Counting Bits | Easy | java | [Problem](https://leetcode.com/problems/counting-bits/) | [Solution](./solutions/Easy/0338-counting-bits/solution.java) |
