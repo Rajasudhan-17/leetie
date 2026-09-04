@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 81 Solved
+## Progress Summary: 82 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -53,6 +53,7 @@
 | longest-substring-with-at-least-k-repeating-characters | Longest Substring with At Least K Repeating Characters | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Solution](./solutions/Medium/0395-longest-substring-with-at-least-k-repeating-characters/solution.java) |
 | loud-and-rich | Loud and Rich | Medium | java | [Problem](https://leetcode.com/problems/loud-and-rich/) | [Solution](./solutions/Medium/0851-loud-and-rich/solution.java) |
 | maximum-depth-of-binary-tree | Maximum Depth of Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./solutions/Easy/0104-maximum-depth-of-binary-tree/solution.java) |
+| maximum-points-you-can-obtain-from-cards | Maximum Points You Can Obtain from Cards | Medium | java | [Problem](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Solution](./solutions/Medium/1423-maximum-points-you-can-obtain-from-cards/solution.java) |
 | minimum-genetic-mutation | Minimum Genetic Mutation | Medium | java | [Problem](https://leetcode.com/problems/minimum-genetic-mutation/) | [Solution](./solutions/Medium/0433-minimum-genetic-mutation/solution.java) |
 | moving-stones-until-consecutive-ii | Moving Stones Until Consecutive II | Medium | java | [Problem](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) | [Solution](./solutions/Medium/1040-moving-stones-until-consecutive-ii/solution.java) |
 | multiply-strings | Multiply Strings | Medium | java | [Problem](https://leetcode.com/problems/multiply-strings/) | [Solution](./solutions/Medium/0043-multiply-strings/solution.java) |
