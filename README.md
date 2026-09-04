@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 79 Solved
+## Progress Summary: 80 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -19,6 +19,7 @@
 | construct-uniform-parity-array-ii | Construct Uniform Parity Array II | Medium | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.java) |
 | convert-a-number-to-hexadecimal | Convert a Number to Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | count-and-say | Count and Say | Medium | java | [Problem](https://leetcode.com/problems/count-and-say/) | [Solution](./solutions/Medium/0038-count-and-say/solution.java) |
+| count-number-of-nice-subarrays | Count Number of Nice Subarrays | Medium | java | [Problem](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [Solution](./solutions/Medium/1248-count-number-of-nice-subarrays/solution.java) |
 | counting-bits | Counting Bits | Easy | java | [Problem](https://leetcode.com/problems/counting-bits/) | [Solution](./solutions/Easy/0338-counting-bits/solution.java) |
 | course-schedule | Course Schedule | Medium | java | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.java) |
 | course-schedule-ii | Course Schedule II | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.java) |
