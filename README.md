@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 98 Solved
+## Progress Summary: 99 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -62,6 +62,7 @@
 | loud-and-rich | Loud and Rich | Medium | java | [Problem](https://leetcode.com/problems/loud-and-rich/) | [Solution](./solutions/Medium/0851-loud-and-rich/solution.java) |
 | maximize-the-confusion-of-an-exam | Maximize the Confusion of an Exam | Medium | java | [Problem](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | [Solution](./solutions/Medium/2024-maximize-the-confusion-of-an-exam/solution.java) |
 | maximum-depth-of-binary-tree | Maximum Depth of Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./solutions/Easy/0104-maximum-depth-of-binary-tree/solution.java) |
+| maximum-points-in-an-archery-competition | Maximum Points in an Archery Competition | Medium | java | [Problem](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [Solution](./solutions/Medium/2212-maximum-points-in-an-archery-competition/solution.java) |
 | maximum-points-you-can-obtain-from-cards | Maximum Points You Can Obtain from Cards | Medium | java | [Problem](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Solution](./solutions/Medium/1423-maximum-points-you-can-obtain-from-cards/solution.java) |
 | maximum-white-tiles-covered-by-a-carpet | Maximum White Tiles Covered by a Carpet | Medium | java | [Problem](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | [Solution](./solutions/Medium/2271-maximum-white-tiles-covered-by-a-carpet/solution.java) |
 | minimum-difference-between-highest-and-lowest-of-k-scores | Minimum Difference Between Highest and Lowest of K Scores | Easy | java | [Problem](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [Solution](./solutions/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/solution.java) |
