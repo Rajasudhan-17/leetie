@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 97 Solved
+## Progress Summary: 98 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -70,6 +70,7 @@
 | moving-stones-until-consecutive-ii | Moving Stones Until Consecutive II | Medium | java | [Problem](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) | [Solution](./solutions/Medium/1040-moving-stones-until-consecutive-ii/solution.java) |
 | multiply-strings | Multiply Strings | Medium | java | [Problem](https://leetcode.com/problems/multiply-strings/) | [Solution](./solutions/Medium/0043-multiply-strings/solution.java) |
 | next-greater-element-iii | Next Greater Element III | Medium | java | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.java) |
+| next-greater-numerically-balanced-number | Next Greater Numerically Balanced Number | Medium | java | [Problem](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | [Solution](./solutions/Medium/2048-next-greater-numerically-balanced-number/solution.java) |
 | non-decreasing-subsequences | Non-decreasing Subsequences | Medium | java | [Problem](https://leetcode.com/problems/non-decreasing-subsequences/) | [Solution](./solutions/Medium/0491-non-decreasing-subsequences/solution.java) |
 | not-boring-movies | Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
 | number-of-1-bits | Number of 1 Bits | Easy | java | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./solutions/Easy/0191-number-of-1-bits/solution.java) |
