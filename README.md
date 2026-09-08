@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 103 Solved
+## Progress Summary: 104 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -67,6 +67,7 @@
 | maximum-points-in-an-archery-competition | Maximum Points in an Archery Competition | Medium | java | [Problem](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [Solution](./solutions/Medium/2212-maximum-points-in-an-archery-competition/solution.java) |
 | maximum-points-you-can-obtain-from-cards | Maximum Points You Can Obtain from Cards | Medium | java | [Problem](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Solution](./solutions/Medium/1423-maximum-points-you-can-obtain-from-cards/solution.java) |
 | maximum-white-tiles-covered-by-a-carpet | Maximum White Tiles Covered by a Carpet | Medium | java | [Problem](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | [Solution](./solutions/Medium/2271-maximum-white-tiles-covered-by-a-carpet/solution.java) |
+| min-cost-climbing-stairs | Min Cost Climbing Stairs | Easy | java | [Problem](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](./solutions/Easy/0746-min-cost-climbing-stairs/solution.java) |
 | minimum-difference-between-highest-and-lowest-of-k-scores | Minimum Difference Between Highest and Lowest of K Scores | Easy | java | [Problem](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [Solution](./solutions/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/solution.java) |
 | minimum-genetic-mutation | Minimum Genetic Mutation | Medium | java | [Problem](https://leetcode.com/problems/minimum-genetic-mutation/) | [Solution](./solutions/Medium/0433-minimum-genetic-mutation/solution.java) |
 | minimum-operations-to-reduce-x-to-zero | Minimum Operations to Reduce X to Zero | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./solutions/Medium/1658-minimum-operations-to-reduce-x-to-zero/solution.java) |
