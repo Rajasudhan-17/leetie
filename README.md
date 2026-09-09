@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 108 Solved
+## Progress Summary: 109 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -104,6 +104,7 @@
 | running-sum-of-1d-array | Running Sum of 1d Array | Easy | java | [Problem](https://leetcode.com/problems/running-sum-of-1d-array/) | [Solution](./solutions/Easy/1480-running-sum-of-1d-array/solution.java) |
 | sales-person | Sales Person | Easy | mysql | [Problem](https://leetcode.com/problems/sales-person/) | [Solution](./solutions/Easy/0607-sales-person/solution.sql) |
 | shuffle-the-array | Shuffle the Array | Easy | java | [Problem](https://leetcode.com/problems/shuffle-the-array/) | [Solution](./solutions/Easy/1470-shuffle-the-array/solution.java) |
+| split-array-largest-sum | Split Array Largest Sum | Hard | java | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](./solutions/Hard/0410-split-array-largest-sum/solution.java) |
 | string-compression | String Compression | Medium | java | [Problem](https://leetcode.com/problems/string-compression/) | [Solution](./solutions/Medium/0443-string-compression/solution.java) |
 | substrings-of-size-three-with-distinct-characters | Substrings of Size Three with Distinct Characters | Easy | java | [Problem](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [Solution](./solutions/Easy/1876-substrings-of-size-three-with-distinct-characters/solution.java) |
 | sum-of-two-integers | Sum of Two Integers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./solutions/Medium/0371-sum-of-two-integers/solution.java) |
