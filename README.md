@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 110 Solved
+## Progress Summary: 111 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -91,6 +91,7 @@
 | perfect-squares | Perfect Squares | Medium | java | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.java) |
 | power-of-four | Power of Four | Easy | java | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.java) |
 | power-of-two | Power of Two | Easy | java | [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](./solutions/Easy/0231-power-of-two/solution.java) |
+| range-sum-query-immutable | Range Sum Query - Immutable | Easy | java | [Problem](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](./solutions/Easy/0303-range-sum-query-immutable/solution.java) |
 | ransom-note | Ransom Note | Easy | java | [Problem](https://leetcode.com/problems/ransom-note/) | [Solution](./solutions/Easy/0383-ransom-note/solution.java) |
 | reconstruct-original-digits-from-english | Reconstruct Original Digits from English | Medium | java | [Problem](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Solution](./solutions/Medium/0423-reconstruct-original-digits-from-english/solution.java) |
 | rectangle-area | Rectangle Area | Medium | java | [Problem](https://leetcode.com/problems/rectangle-area/) | [Solution](./solutions/Medium/0223-rectangle-area/solution.java) |
