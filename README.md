@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 121 Solved
+## Progress Summary: 122 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -61,6 +61,7 @@
 | interleaving-string | Interleaving String | Medium | java | [Problem](https://leetcode.com/problems/interleaving-string/) | [Solution](./solutions/Medium/0097-interleaving-string/solution.java) |
 | intersection-of-two-linked-lists | Intersection of Two Linked Lists | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](./solutions/Easy/0160-intersection-of-two-linked-lists/solution.java) |
 | is-subsequence | Is Subsequence | Easy | java | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.java) |
+| jump-game-vi | Jump Game VI | Medium | java | [Problem](https://leetcode.com/problems/jump-game-vi/) | [Solution](./solutions/Medium/1696-jump-game-vi/solution.java) |
 | kids-with-the-greatest-number-of-candies | Kids With the Greatest Number of Candies | Easy | java | [Problem](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Solution](./solutions/Easy/1431-kids-with-the-greatest-number-of-candies/solution.java) |
 | letter-combinations-of-a-phone-number | Letter Combinations of a Phone Number | Medium | java | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./solutions/Medium/0017-letter-combinations-of-a-phone-number/solution.java) |
 | linked-list-cycle-ii | Linked List Cycle II | Medium | java | [Problem](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](./solutions/Medium/0142-linked-list-cycle-ii/solution.java) |
