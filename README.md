@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 119 Solved
+## Progress Summary: 120 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -76,6 +76,7 @@
 | maximum-depth-of-binary-tree | Maximum Depth of Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./solutions/Easy/0104-maximum-depth-of-binary-tree/solution.java) |
 | maximum-points-in-an-archery-competition | Maximum Points in an Archery Competition | Medium | java | [Problem](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [Solution](./solutions/Medium/2212-maximum-points-in-an-archery-competition/solution.java) |
 | maximum-points-you-can-obtain-from-cards | Maximum Points You Can Obtain from Cards | Medium | java | [Problem](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Solution](./solutions/Medium/1423-maximum-points-you-can-obtain-from-cards/solution.java) |
+| maximum-sum-circular-subarray | Maximum Sum Circular Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Solution](./solutions/Medium/0918-maximum-sum-circular-subarray/solution.java) |
 | maximum-white-tiles-covered-by-a-carpet | Maximum White Tiles Covered by a Carpet | Medium | java | [Problem](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | [Solution](./solutions/Medium/2271-maximum-white-tiles-covered-by-a-carpet/solution.java) |
 | min-cost-climbing-stairs | Min Cost Climbing Stairs | Easy | java | [Problem](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](./solutions/Easy/0746-min-cost-climbing-stairs/solution.java) |
 | minimum-difference-between-highest-and-lowest-of-k-scores | Minimum Difference Between Highest and Lowest of K Scores | Easy | java | [Problem](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [Solution](./solutions/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/solution.java) |
