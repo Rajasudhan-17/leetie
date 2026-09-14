@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 126 Solved
+## Progress Summary: 127 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -84,6 +84,7 @@
 | min-cost-climbing-stairs | Min Cost Climbing Stairs | Easy | java | [Problem](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](./solutions/Easy/0746-min-cost-climbing-stairs/solution.java) |
 | minimum-difference-between-highest-and-lowest-of-k-scores | Minimum Difference Between Highest and Lowest of K Scores | Easy | java | [Problem](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [Solution](./solutions/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/solution.java) |
 | minimum-genetic-mutation | Minimum Genetic Mutation | Medium | java | [Problem](https://leetcode.com/problems/minimum-genetic-mutation/) | [Solution](./solutions/Medium/0433-minimum-genetic-mutation/solution.java) |
+| minimum-number-of-valid-strings-to-form-target-i | Minimum Number of Valid Strings to Form Target I | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/) | [Solution](./solutions/Medium/3291-minimum-number-of-valid-strings-to-form-target-i/solution.java) |
 | minimum-operations-to-reduce-x-to-zero | Minimum Operations to Reduce X to Zero | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./solutions/Medium/1658-minimum-operations-to-reduce-x-to-zero/solution.java) |
 | minimum-path-sum | Minimum Path Sum | Medium | java | [Problem](https://leetcode.com/problems/minimum-path-sum/) | [Solution](./solutions/Medium/0064-minimum-path-sum/solution.java) |
 | moving-stones-until-consecutive-ii | Moving Stones Until Consecutive II | Medium | java | [Problem](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) | [Solution](./solutions/Medium/1040-moving-stones-until-consecutive-ii/solution.java) |
