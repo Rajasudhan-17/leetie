@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 135 Solved
+## Progress Summary: 136 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -27,6 +27,7 @@
 | count-and-say | Count and Say | Medium | java | [Problem](https://leetcode.com/problems/count-and-say/) | [Solution](./solutions/Medium/0038-count-and-say/solution.java) |
 | count-number-of-maximum-bitwise-or-subsets | Count Number of Maximum Bitwise-OR Subsets | Medium | java | [Problem](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [Solution](./solutions/Medium/2044-count-number-of-maximum-bitwise-or-subsets/solution.java) |
 | count-number-of-nice-subarrays | Count Number of Nice Subarrays | Medium | java | [Problem](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [Solution](./solutions/Medium/1248-count-number-of-nice-subarrays/solution.java) |
+| count-numbers-with-unique-digits | Count Numbers with Unique Digits | Medium | java | [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Solution](./solutions/Medium/0357-count-numbers-with-unique-digits/solution.java) |
 | counting-bits | Counting Bits | Easy | java | [Problem](https://leetcode.com/problems/counting-bits/) | [Solution](./solutions/Easy/0338-counting-bits/solution.java) |
 | course-schedule | Course Schedule | Medium | java | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.java) |
 | course-schedule-ii | Course Schedule II | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.java) |
