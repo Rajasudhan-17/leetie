@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 151 Solved
+## Progress Summary: 152 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -56,6 +56,7 @@
 | find-right-interval | Find Right Interval | Medium | java | [Problem](https://leetcode.com/problems/find-right-interval/) | [Solution](./solutions/Medium/0436-find-right-interval/solution.java) |
 | find-the-difference | Find the Difference | Easy | java | [Problem](https://leetcode.com/problems/find-the-difference/) | [Solution](./solutions/Easy/0389-find-the-difference/solution.java) |
 | find-the-k-beauty-of-a-number | Find the K-Beauty of a Number | Easy | java | [Problem](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [Solution](./solutions/Easy/2269-find-the-k-beauty-of-a-number/solution.java) |
+| find-the-k-th-character-in-string-game-i | Find the K-th Character in String Game I | Easy | java | [Problem](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | [Solution](./solutions/Easy/3304-find-the-k-th-character-in-string-game-i/solution.java) |
 | finding-3-digit-even-numbers | Finding 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [Solution](./solutions/Easy/2094-finding-3-digit-even-numbers/solution.java) |
 | first-bad-version | First Bad Version | Easy | java | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.java) |
 | first-unique-character-in-a-string | First Unique Character in a String | Easy | java | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./solutions/Easy/0387-first-unique-character-in-a-string/solution.java) |
