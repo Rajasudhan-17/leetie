@@ -4,7 +4,7 @@
 // Tags     : Linked List, Two Pointers
 // Link     : https://leetcode.com/problems/middle-of-the-linked-list/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 43120000 (beats 16%)
+// Memory   : 42632000 (beats 86%)
 // Language : java
 // Copyright: (c) 2026 Rajasudhan-17. All rights reserved.
 // Synced by: leetie
