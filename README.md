@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 156 Solved
+## Progress Summary: 157 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -97,6 +97,7 @@
 | maximum-points-you-can-obtain-from-cards | Maximum Points You Can Obtain from Cards | Medium | java | [Problem](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Solution](./solutions/Medium/1423-maximum-points-you-can-obtain-from-cards/solution.java) |
 | maximum-repeating-substring | Maximum Repeating Substring | Easy | java | [Problem](https://leetcode.com/problems/maximum-repeating-substring/) | [Solution](./solutions/Easy/1668-maximum-repeating-substring/solution.java) |
 | maximum-sum-circular-subarray | Maximum Sum Circular Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Solution](./solutions/Medium/0918-maximum-sum-circular-subarray/solution.java) |
+| maximum-twin-sum-of-a-linked-list | Maximum Twin Sum of a Linked List | Medium | java | [Problem](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Solution](./solutions/Medium/2130-maximum-twin-sum-of-a-linked-list/solution.java) |
 | maximum-white-tiles-covered-by-a-carpet | Maximum White Tiles Covered by a Carpet | Medium | java | [Problem](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | [Solution](./solutions/Medium/2271-maximum-white-tiles-covered-by-a-carpet/solution.java) |
 | middle-of-the-linked-list | Middle of the Linked List | Easy | java | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./solutions/Easy/0876-middle-of-the-linked-list/solution.java) |
 | min-cost-climbing-stairs | Min Cost Climbing Stairs | Easy | java | [Problem](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](./solutions/Easy/0746-min-cost-climbing-stairs/solution.java) |
