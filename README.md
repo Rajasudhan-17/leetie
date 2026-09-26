@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 157 Solved
+## Progress Summary: 158 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -30,6 +30,7 @@
 | convert-a-number-to-hexadecimal | Convert a Number to Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | copy-list-with-random-pointer | Copy List with Random Pointer | Medium | java | [Problem](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./solutions/Medium/0138-copy-list-with-random-pointer/solution.java) |
 | count-and-say | Count and Say | Medium | java | [Problem](https://leetcode.com/problems/count-and-say/) | [Solution](./solutions/Medium/0038-count-and-say/solution.java) |
+| count-binary-substrings | Count Binary Substrings | Easy | java | [Problem](https://leetcode.com/problems/count-binary-substrings/) | [Solution](./solutions/Easy/0696-count-binary-substrings/solution.java) |
 | count-number-of-maximum-bitwise-or-subsets | Count Number of Maximum Bitwise-OR Subsets | Medium | java | [Problem](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [Solution](./solutions/Medium/2044-count-number-of-maximum-bitwise-or-subsets/solution.java) |
 | count-number-of-nice-subarrays | Count Number of Nice Subarrays | Medium | java | [Problem](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [Solution](./solutions/Medium/1248-count-number-of-nice-subarrays/solution.java) |
 | count-numbers-with-unique-digits | Count Numbers with Unique Digits | Medium | java | [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Solution](./solutions/Medium/0357-count-numbers-with-unique-digits/solution.java) |
