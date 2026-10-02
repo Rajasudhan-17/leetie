@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 171 Solved
+## Progress Summary: 172 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -52,6 +52,7 @@
 | duplicate-zeros | Duplicate Zeros | Easy | java | [Problem](https://leetcode.com/problems/duplicate-zeros/) | [Solution](./solutions/Easy/1089-duplicate-zeros/solution.java) |
 | edit-distance | Edit Distance | Medium | java | [Problem](https://leetcode.com/problems/edit-distance/) | [Solution](./solutions/Medium/0072-edit-distance/solution.java) |
 | evaluate-division | Evaluate Division | Medium | java | [Problem](https://leetcode.com/problems/evaluate-division/) | [Solution](./solutions/Medium/0399-evaluate-division/solution.java) |
+| evaluate-reverse-polish-notation | Evaluate Reverse Polish Notation | Medium | java | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./solutions/Medium/0150-evaluate-reverse-polish-notation/solution.java) |
 | excel-sheet-column-number | Excel Sheet Column Number | Easy | java | [Problem](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](./solutions/Easy/0171-excel-sheet-column-number/solution.java) |
 | excel-sheet-column-title | Excel Sheet Column Title | Easy | java | [Problem](https://leetcode.com/problems/excel-sheet-column-title/) | [Solution](./solutions/Easy/0168-excel-sheet-column-title/solution.java) |
 | exchange-seats | Exchange Seats | Medium | mysql | [Problem](https://leetcode.com/problems/exchange-seats/) | [Solution](./solutions/Medium/0626-exchange-seats/solution.sql) |
