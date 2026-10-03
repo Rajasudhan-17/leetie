@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 176 Solved
+## Progress Summary: 177 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -102,6 +102,7 @@
 | longest-uploaded-prefix | Longest Uploaded Prefix | Medium | java | [Problem](https://leetcode.com/problems/longest-uploaded-prefix/) | [Solution](./solutions/Medium/2424-longest-uploaded-prefix/solution.java) |
 | longest-well-performing-interval | Longest Well-Performing Interval | Medium | java | [Problem](https://leetcode.com/problems/longest-well-performing-interval/) | [Solution](./solutions/Medium/1124-longest-well-performing-interval/solution.java) |
 | loud-and-rich | Loud and Rich | Medium | java | [Problem](https://leetcode.com/problems/loud-and-rich/) | [Solution](./solutions/Medium/0851-loud-and-rich/solution.java) |
+| magical-string | Magical String | Medium | java | [Problem](https://leetcode.com/problems/magical-string/) | [Solution](./solutions/Medium/0481-magical-string/solution.java) |
 | maximize-the-confusion-of-an-exam | Maximize the Confusion of an Exam | Medium | java | [Problem](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | [Solution](./solutions/Medium/2024-maximize-the-confusion-of-an-exam/solution.java) |
 | maximum-binary-tree | Maximum Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/maximum-binary-tree/) | [Solution](./solutions/Medium/0654-maximum-binary-tree/solution.java) |
 | maximum-depth-of-binary-tree | Maximum Depth of Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./solutions/Easy/0104-maximum-depth-of-binary-tree/solution.java) |
