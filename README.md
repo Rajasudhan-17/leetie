@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 177 Solved
+## Progress Summary: 178 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -99,6 +99,7 @@
 | longest-palindrome | Longest Palindrome | Easy | java | [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution](./solutions/Easy/0409-longest-palindrome/solution.java) |
 | longest-subarray-of-1s-after-deleting-one-element | Longest Subarray of 1's After Deleting One Element | Medium | java | [Problem](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Solution](./solutions/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/solution.java) |
 | longest-substring-with-at-least-k-repeating-characters | Longest Substring with At Least K Repeating Characters | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Solution](./solutions/Medium/0395-longest-substring-with-at-least-k-repeating-characters/solution.java) |
+| longest-uncommon-subsequence-ii | Longest Uncommon Subsequence II | Medium | java | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.java) |
 | longest-uploaded-prefix | Longest Uploaded Prefix | Medium | java | [Problem](https://leetcode.com/problems/longest-uploaded-prefix/) | [Solution](./solutions/Medium/2424-longest-uploaded-prefix/solution.java) |
 | longest-well-performing-interval | Longest Well-Performing Interval | Medium | java | [Problem](https://leetcode.com/problems/longest-well-performing-interval/) | [Solution](./solutions/Medium/1124-longest-well-performing-interval/solution.java) |
 | loud-and-rich | Loud and Rich | Medium | java | [Problem](https://leetcode.com/problems/loud-and-rich/) | [Solution](./solutions/Medium/0851-loud-and-rich/solution.java) |
