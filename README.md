@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 183 Solved
+## Progress Summary: 184 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -141,6 +141,7 @@
 | number-of-segments-in-a-string | Number of Segments in a String | Easy | java | [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](./solutions/Easy/0434-number-of-segments-in-a-string/solution.java) |
 | number-of-students-unable-to-eat-lunch | Number of Students Unable to Eat Lunch | Easy | java | [Problem](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Solution](./solutions/Easy/1700-number-of-students-unable-to-eat-lunch/solution.java) |
 | number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Medium | java | [Problem](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [Solution](./solutions/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/solution.java) |
+| number-of-substrings-containing-all-three-characters | Number of Substrings Containing All Three Characters | Medium | java | [Problem](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Solution](./solutions/Medium/1358-number-of-substrings-containing-all-three-characters/solution.java) |
 | ones-and-zeroes | Ones and Zeroes | Medium | java | [Problem](https://leetcode.com/problems/ones-and-zeroes/) | [Solution](./solutions/Medium/0474-ones-and-zeroes/solution.java) |
 | online-stock-span | Online Stock Span | Medium | java | [Problem](https://leetcode.com/problems/online-stock-span/) | [Solution](./solutions/Medium/0901-online-stock-span/solution.java) |
 | palindromic-substrings | Palindromic Substrings | Medium | java | [Problem](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./solutions/Medium/0647-palindromic-substrings/solution.java) |
