@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 187 Solved
+## Progress Summary: 188 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -129,6 +129,7 @@
 | moving-stones-until-consecutive-ii | Moving Stones Until Consecutive II | Medium | java | [Problem](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) | [Solution](./solutions/Medium/1040-moving-stones-until-consecutive-ii/solution.java) |
 | multiply-strings | Multiply Strings | Medium | java | [Problem](https://leetcode.com/problems/multiply-strings/) | [Solution](./solutions/Medium/0043-multiply-strings/solution.java) |
 | n-th-tribonacci-number | N-th Tribonacci Number | Easy | java | [Problem](https://leetcode.com/problems/n-th-tribonacci-number/) | [Solution](./solutions/Easy/1137-n-th-tribonacci-number/solution.java) |
+| new-21-game | New 21 Game | Medium | java | [Problem](https://leetcode.com/problems/new-21-game/) | [Solution](./solutions/Medium/0837-new-21-game/solution.java) |
 | next-greater-element-iii | Next Greater Element III | Medium | java | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.java) |
 | next-greater-node-in-linked-list | Next Greater Node In Linked List | Medium | java | [Problem](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [Solution](./solutions/Medium/1019-next-greater-node-in-linked-list/solution.java) |
 | next-greater-numerically-balanced-number | Next Greater Numerically Balanced Number | Medium | java | [Problem](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | [Solution](./solutions/Medium/2048-next-greater-numerically-balanced-number/solution.java) |
