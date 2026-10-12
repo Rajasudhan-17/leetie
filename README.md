@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 190 Solved
+## Progress Summary: 191 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -112,6 +112,7 @@
 | maximize-the-confusion-of-an-exam | Maximize the Confusion of an Exam | Medium | java | [Problem](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | [Solution](./solutions/Medium/2024-maximize-the-confusion-of-an-exam/solution.java) |
 | maximum-binary-tree | Maximum Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/maximum-binary-tree/) | [Solution](./solutions/Medium/0654-maximum-binary-tree/solution.java) |
 | maximum-depth-of-binary-tree | Maximum Depth of Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./solutions/Easy/0104-maximum-depth-of-binary-tree/solution.java) |
+| maximum-erasure-value | Maximum Erasure Value | Medium | java | [Problem](https://leetcode.com/problems/maximum-erasure-value/) | [Solution](./solutions/Medium/1695-maximum-erasure-value/solution.java) |
 | maximum-number-of-occurrences-of-a-substring | Maximum Number of Occurrences of a Substring | Medium | java | [Problem](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) | [Solution](./solutions/Medium/1297-maximum-number-of-occurrences-of-a-substring/solution.java) |
 | maximum-points-in-an-archery-competition | Maximum Points in an Archery Competition | Medium | java | [Problem](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [Solution](./solutions/Medium/2212-maximum-points-in-an-archery-competition/solution.java) |
 | maximum-points-you-can-obtain-from-cards | Maximum Points You Can Obtain from Cards | Medium | java | [Problem](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Solution](./solutions/Medium/1423-maximum-points-you-can-obtain-from-cards/solution.java) |
