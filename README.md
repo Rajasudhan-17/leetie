@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 192 Solved
+## Progress Summary: 193 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -175,6 +175,7 @@
 | reverse-string-ii | Reverse String II | Easy | java | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.java) |
 | running-sum-of-1d-array | Running Sum of 1d Array | Easy | java | [Problem](https://leetcode.com/problems/running-sum-of-1d-array/) | [Solution](./solutions/Easy/1480-running-sum-of-1d-array/solution.java) |
 | sales-person | Sales Person | Easy | mysql | [Problem](https://leetcode.com/problems/sales-person/) | [Solution](./solutions/Easy/0607-sales-person/solution.sql) |
+| shortest-distance-to-a-character | Shortest Distance to a Character | Easy | java | [Problem](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Solution](./solutions/Easy/0821-shortest-distance-to-a-character/solution.java) |
 | shuffle-the-array | Shuffle the Array | Easy | java | [Problem](https://leetcode.com/problems/shuffle-the-array/) | [Solution](./solutions/Easy/1470-shuffle-the-array/solution.java) |
 | split-array-largest-sum | Split Array Largest Sum | Hard | java | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](./solutions/Hard/0410-split-array-largest-sum/solution.java) |
 | string-compression | String Compression | Medium | java | [Problem](https://leetcode.com/problems/string-compression/) | [Solution](./solutions/Medium/0443-string-compression/solution.java) |
