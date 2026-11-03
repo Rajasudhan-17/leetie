@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 198 Solved
+## Progress Summary: 199 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -95,6 +95,7 @@
 | is-subsequence | Is Subsequence | Easy | java | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.java) |
 | jump-game-vi | Jump Game VI | Medium | java | [Problem](https://leetcode.com/problems/jump-game-vi/) | [Solution](./solutions/Medium/1696-jump-game-vi/solution.java) |
 | kids-with-the-greatest-number-of-candies | Kids With the Greatest Number of Candies | Easy | java | [Problem](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Solution](./solutions/Easy/1431-kids-with-the-greatest-number-of-candies/solution.java) |
+| largest-number-at-least-twice-of-others | Largest Number At Least Twice of Others | Easy | java | [Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Solution](./solutions/Easy/0747-largest-number-at-least-twice-of-others/solution.java) |
 | letter-combinations-of-a-phone-number | Letter Combinations of a Phone Number | Medium | java | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./solutions/Medium/0017-letter-combinations-of-a-phone-number/solution.java) |
 | license-key-formatting | License Key Formatting | Easy | java | [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](./solutions/Easy/0482-license-key-formatting/solution.java) |
 | linked-list-cycle-ii | Linked List Cycle II | Medium | java | [Problem](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](./solutions/Medium/0142-linked-list-cycle-ii/solution.java) |
