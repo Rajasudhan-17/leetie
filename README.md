@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 204 Solved
+## Progress Summary: 205 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -138,6 +138,7 @@
 | minimum-path-sum | Minimum Path Sum | Medium | java | [Problem](https://leetcode.com/problems/minimum-path-sum/) | [Solution](./solutions/Medium/0064-minimum-path-sum/solution.java) |
 | moving-stones-until-consecutive-ii | Moving Stones Until Consecutive II | Medium | java | [Problem](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) | [Solution](./solutions/Medium/1040-moving-stones-until-consecutive-ii/solution.java) |
 | multiply-strings | Multiply Strings | Medium | java | [Problem](https://leetcode.com/problems/multiply-strings/) | [Solution](./solutions/Medium/0043-multiply-strings/solution.java) |
+| n-ary-tree-preorder-traversal | N-ary Tree Preorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0589-n-ary-tree-preorder-traversal/solution.java) |
 | n-th-tribonacci-number | N-th Tribonacci Number | Easy | java | [Problem](https://leetcode.com/problems/n-th-tribonacci-number/) | [Solution](./solutions/Easy/1137-n-th-tribonacci-number/solution.java) |
 | new-21-game | New 21 Game | Medium | java | [Problem](https://leetcode.com/problems/new-21-game/) | [Solution](./solutions/Medium/0837-new-21-game/solution.java) |
 | next-greater-element-iii | Next Greater Element III | Medium | java | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.java) |
