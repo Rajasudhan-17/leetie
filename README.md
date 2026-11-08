@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 205 Solved
+## Progress Summary: 206 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -55,6 +55,7 @@
 | divisor-game | Divisor Game | Easy | java | [Problem](https://leetcode.com/problems/divisor-game/) | [Solution](./solutions/Easy/1025-divisor-game/solution.java) |
 | duplicate-zeros | Duplicate Zeros | Easy | java | [Problem](https://leetcode.com/problems/duplicate-zeros/) | [Solution](./solutions/Easy/1089-duplicate-zeros/solution.java) |
 | edit-distance | Edit Distance | Medium | java | [Problem](https://leetcode.com/problems/edit-distance/) | [Solution](./solutions/Medium/0072-edit-distance/solution.java) |
+| elimination-game | Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
 | evaluate-division | Evaluate Division | Medium | java | [Problem](https://leetcode.com/problems/evaluate-division/) | [Solution](./solutions/Medium/0399-evaluate-division/solution.java) |
 | evaluate-reverse-polish-notation | Evaluate Reverse Polish Notation | Medium | java | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./solutions/Medium/0150-evaluate-reverse-polish-notation/solution.java) |
 | excel-sheet-column-number | Excel Sheet Column Number | Easy | java | [Problem](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](./solutions/Easy/0171-excel-sheet-column-number/solution.java) |
