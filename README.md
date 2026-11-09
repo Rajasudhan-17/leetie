@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 207 Solved
+## Progress Summary: 208 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -115,6 +115,7 @@
 | longest-uncommon-subsequence-ii | Longest Uncommon Subsequence II | Medium | java | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.java) |
 | longest-uploaded-prefix | Longest Uploaded Prefix | Medium | java | [Problem](https://leetcode.com/problems/longest-uploaded-prefix/) | [Solution](./solutions/Medium/2424-longest-uploaded-prefix/solution.java) |
 | longest-well-performing-interval | Longest Well-Performing Interval | Medium | java | [Problem](https://leetcode.com/problems/longest-well-performing-interval/) | [Solution](./solutions/Medium/1124-longest-well-performing-interval/solution.java) |
+| longest-word-in-dictionary-through-deleting | Longest Word in Dictionary through Deleting | Medium | java | [Problem](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Solution](./solutions/Medium/0524-longest-word-in-dictionary-through-deleting/solution.java) |
 | loud-and-rich | Loud and Rich | Medium | java | [Problem](https://leetcode.com/problems/loud-and-rich/) | [Solution](./solutions/Medium/0851-loud-and-rich/solution.java) |
 | magical-string | Magical String | Medium | java | [Problem](https://leetcode.com/problems/magical-string/) | [Solution](./solutions/Medium/0481-magical-string/solution.java) |
 | maximize-the-confusion-of-an-exam | Maximize the Confusion of an Exam | Medium | java | [Problem](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | [Solution](./solutions/Medium/2024-maximize-the-confusion-of-an-exam/solution.java) |
