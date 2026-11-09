@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 208 Solved
+## Progress Summary: 209 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -62,6 +62,7 @@
 | excel-sheet-column-number | Excel Sheet Column Number | Easy | java | [Problem](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](./solutions/Easy/0171-excel-sheet-column-number/solution.java) |
 | excel-sheet-column-title | Excel Sheet Column Title | Easy | java | [Problem](https://leetcode.com/problems/excel-sheet-column-title/) | [Solution](./solutions/Easy/0168-excel-sheet-column-title/solution.java) |
 | exchange-seats | Exchange Seats | Medium | mysql | [Problem](https://leetcode.com/problems/exchange-seats/) | [Solution](./solutions/Medium/0626-exchange-seats/solution.sql) |
+| expressive-words | Expressive Words | Medium | java | [Problem](https://leetcode.com/problems/expressive-words/) | [Solution](./solutions/Medium/0809-expressive-words/solution.java) |
 | factorial-trailing-zeroes | Factorial Trailing Zeroes | Medium | java | [Problem](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](./solutions/Medium/0172-factorial-trailing-zeroes/solution.java) |
 | fair-distribution-of-cookies | Fair Distribution of Cookies | Medium | java | [Problem](https://leetcode.com/problems/fair-distribution-of-cookies/) | [Solution](./solutions/Medium/2305-fair-distribution-of-cookies/solution.java) |
 | fibonacci-number | Fibonacci Number | Easy | java | [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](./solutions/Easy/0509-fibonacci-number/solution.java) |
