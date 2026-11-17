@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 213 Solved
+## Progress Summary: 214 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -206,6 +206,7 @@
 | surrounded-regions | Surrounded Regions | Medium | java | [Problem](https://leetcode.com/problems/surrounded-regions/) | [Solution](./solutions/Medium/0130-surrounded-regions/solution.java) |
 | swap-for-longest-repeated-character-substring | Swap For Longest Repeated Character Substring | Medium | java | [Problem](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | [Solution](./solutions/Medium/1156-swap-for-longest-repeated-character-substring/solution.java) |
 | top-k-frequent-elements | Top K Frequent Elements | Medium | java | [Problem](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./solutions/Medium/0347-top-k-frequent-elements/solution.java) |
+| top-k-frequent-words | Top K Frequent Words | Medium | java | [Problem](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](./solutions/Medium/0692-top-k-frequent-words/solution.java) |
 | tree-node | Tree Node | Medium | mysql | [Problem](https://leetcode.com/problems/tree-node/) | [Solution](./solutions/Medium/0608-tree-node/solution.sql) |
 | triangle-judgement | Triangle Judgement | Easy | mysql | [Problem](https://leetcode.com/problems/triangle-judgement/) | [Solution](./solutions/Easy/0610-triangle-judgement/solution.sql) |
 | two-sum | Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
