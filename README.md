@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 218 Solved
+## Progress Summary: 219 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -76,6 +76,7 @@
 | find-the-distance-value-between-two-arrays | Find the Distance Value Between Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Solution](./solutions/Easy/1385-find-the-distance-value-between-two-arrays/solution.java) |
 | find-the-k-beauty-of-a-number | Find the K-Beauty of a Number | Easy | java | [Problem](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [Solution](./solutions/Easy/2269-find-the-k-beauty-of-a-number/solution.java) |
 | find-the-k-th-character-in-string-game-i | Find the K-th Character in String Game I | Easy | java | [Problem](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | [Solution](./solutions/Easy/3304-find-the-k-th-character-in-string-game-i/solution.java) |
+| find-two-non-overlapping-sub-arrays-each-with-target-sum | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | java | [Problem](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Solution](./solutions/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.java) |
 | finding-3-digit-even-numbers | Finding 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [Solution](./solutions/Easy/2094-finding-3-digit-even-numbers/solution.java) |
 | first-bad-version | First Bad Version | Easy | java | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.java) |
 | first-unique-character-in-a-string | First Unique Character in a String | Easy | java | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./solutions/Easy/0387-first-unique-character-in-a-string/solution.java) |
